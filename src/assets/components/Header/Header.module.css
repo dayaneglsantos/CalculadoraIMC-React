@@ -1,0 +1,12 @@
+.header {
+  background-color: #000000d5;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: "Libre Baskerville", serif;
+  color: rgb(255, 208, 0);
+}

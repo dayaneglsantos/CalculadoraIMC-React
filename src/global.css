@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  color: #fff;
+}
+
+body {
+  background-image: url(./assets/images/bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+
+  /* height: 100vh;
+  background: rgb(22, 140, 83);
+  background: linear-gradient(
+    0deg,
+    rgba(22, 140, 83, 1) 0%,
+    rgba(52, 218, 124, 1) 100%
+  ); */
+}
